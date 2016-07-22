@@ -1,0 +1,31 @@
+.caja{
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.coder1{
+	display: inline-block;
+	margin: 20px;
+	position: relative;
+	width: 200px;
+	height: 200px;
+}
+.nombres{
+	display:inline-block;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	color: #FFFFFF;
+}
+h2{
+	font-size: 16px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+hr{
+	width: 70px;
+	height:3px;
+	left:15px;
+	background: black;
+	margin-left: 100px;
+	margin-bottom: 0px;
+}
